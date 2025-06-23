@@ -45,9 +45,6 @@ Supports **English 🇬🇧** and **Arabic 🇸🇦** – easily toggle language
 
 ---
 
-## 📱 Screenshots / Demo
-
-> [🧠 You can add video or images here later – just place them in a `/screenshots` folder and link.]
 
 ---
 
