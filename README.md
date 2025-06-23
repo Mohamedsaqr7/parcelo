@@ -1,16 +1,60 @@
-# package_delivery
+# 📦 Parcelo – Smart Parcel Delivery App
 
-A new Flutter project.
+Parcelo is a cross-platform Flutter mobile app designed to streamline parcel delivery and logistics. Whether you're a sender, receiver, or admin — Parcelo brings a powerful set of tools to your hands.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ User Side
+- 📍 **Live Delivery Tracking** with Google Maps
+- 📦 **Smart Parcel Management** – schedule deliveries, track status, and get real-time updates
+- 🔔 **Push Notifications** for delivery status & actions
+- 🌐 **Multi-language Support** (🇬🇧 English, 🇸🇦 Arabic)
+- 💳 **Integrated Payments** using **Paymob**
+- 📶 **No Internet Screen** – Friendly fallback when offline
+- ⚠️ **Custom Error Screen** – Handles unexpected crashes gracefully
+- 👤 **Secure Login & Auth** via Supabase
+- 🧭 Smooth Navigation with `GNav` bottom bar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠 Admin Panel (in-app)
+- 📊 Admin Dashboard for full control
+- 👥 Manage users and deliveries
+- 🚚 Approve, assign, or cancel parcels
+- 📷 View user-uploaded images
+
+---
+
+## 💡 Tech Stack
+
+- 🔧 **Flutter 3.4.3**
+- ☁️ **Supabase** (auth + backend)
+- 💳 **Paymob** for payments
+- 🗺 **Google Maps API**
+- 🌐 **WebView Flutter** for embedded flows
+- 🧠 **BLoC + get_it** for state management & DI
+- 📦 **SharedPreferences + SecureStorage** for secure local data
+
+---
+
+## 🌍 Localization
+
+Supports **English 🇬🇧** and **Arabic 🇸🇦** – easily toggle language from settings.
+
+---
+
+## 📱 Screenshots / Demo
+
+> [🧠 You can add video or images here later – just place them in a `/screenshots` folder and link.]
+
+---
+
+## 🛠 Setup
+
+```bash
+git clone https://github.com/Mohamedsaqr7/parcelo.git
+cd parcelo
+flutter pub get
+flutter run
