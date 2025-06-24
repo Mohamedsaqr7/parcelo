@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Purpose
+## 🌟 Purpose
 
 **Problem:** Parcel delivery and tracking systems are often unorganized, confusing, or unreliable under poor internet conditions.
 
@@ -124,10 +124,11 @@ Parcelo is production-ready and can be released on Google Play as an AAB file. I
 ![Tech](screenshots/7_Under-the-Hood-Tech-Stack.png)
 ![Design](screenshots/8_Smart-Design-Choices.png)
 ![Preview](screenshots/9_Parcelo-See-It-in-Action.png)
+![Final](screenshots/10_.png)
 
 ---
 
-## 🙍 Contact
+## 👭 Contact
 
 Feel free to reach out if you have suggestions, want to contribute, or spot a bug!
 
